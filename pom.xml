@@ -19,5 +19,11 @@
         <artifactId>mssql-jdbc</artifactId>
         <version>12.8.0.jre11</version>
     </dependency>
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>8.0.32</version> <!-- Проверьте последнюю версию на Maven Central -->
+    </dependency>
+
     </dependencies>
 </project>
